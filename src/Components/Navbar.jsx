@@ -17,7 +17,7 @@ function Navbar() {
 
             <Profile
                profSource = {profile_img}
-            />
+            /> 
          </div>
       )
 }

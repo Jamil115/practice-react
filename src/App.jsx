@@ -4,8 +4,8 @@ import Data from './Components/Data'
 import Card from './Components/Card'
 
 let items = []
-items = Data.map((item) => 
-  <Card 
+items = Data.map((item, index) => 
+  <Card key={index}
     name = {item.name}
     prof = {item.profession}
     thoughts = {item.thoughts} 

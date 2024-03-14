@@ -42,7 +42,7 @@ const Data = [
     {
         name: "Isaac Williams",
         profession: " Environmental Activist",
-        thoughts: "Fighting for a greener future. Every action counts in the battle against climate change."
+        thoughts: "Fighting for a greener future. Every action counts in the battle against the climate change."
     },
     {
         name: "Sophie Clark",
