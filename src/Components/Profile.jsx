@@ -13,7 +13,7 @@ function Profile({profSource}) {
           <div>
           <button onClick={toggleFunction}><img src={profSource} alt="" /></button>
           <span>{toggle && (
-            <div className="absolute">
+            <div className="absolute top-[70px] -right-7">
                 <ProfileInfo />
             </div>
           )}</span>
